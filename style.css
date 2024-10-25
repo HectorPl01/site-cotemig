@@ -1,0 +1,20 @@
+table{
+    width: 100%;
+}
+td{
+    width: 10%;
+}
+body{
+    background-color: #430b6e;
+    margin: 0;
+}
+#trformulario{
+background: url(fundo.png) center center no-repeat ;
+background-size: cover;
+}
+#tech{
+    background-color: #fb45c7;
+}
+#verdinho{
+    background-color: #89f668;
+}
